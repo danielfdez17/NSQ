@@ -1,0 +1,294 @@
+{
+    "_id": 1,
+    "titulo": "Brotherhood",
+    "autor": [
+        "Caín",
+        "Abel"
+    ],
+    "precio": 9.0,
+    "genero": [
+        "religión",
+        "crimen"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 4,
+            "year": 2020
+        },
+        "primera": 2000
+    }
+}
+{
+    "_id": 2,
+    "titulo": "Días de sueño (I have a dream)",
+    "autor": "Mor-feo",
+    "precio": 12.5,
+    "opiniones": [
+        {
+            "usuario": "bertoldo",
+            "comentario": "soporífero",
+            "puntos": 3.0
+        }
+    ],
+    "genero": [
+        "melodrama",
+        "romance"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 3,
+            "year": 2021
+        },
+        "primera": 2011
+    }
+}
+{
+    "_id": 3,
+    "titulo": "Peppa Pig va de acampada",
+    "genero": [
+        "Thriller psicológico",
+        "terror",
+        "romance"
+    ],
+    "precio": 15.0,
+    "opiniones": [
+        {
+            "usuario": "bertoldo",
+            "comentario": "Estremecedor",
+            "puntos": 7.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "Genial autobiografía",
+            "puntos": 9.0
+        },
+        {
+            "usuario": "herminia",
+            "comentario": "Inextricable",
+            "puntos": 4.0
+        }
+    ]
+}
+{
+    "_id": 4,
+    "titulo": "Tú a MDL, yo a MMI",
+    "genero": [
+        "viajes",
+        "romance",
+        "terror"
+    ],
+    "precio": 8.0,
+    "opiniones": [
+        {
+            "usuario": "bertoldo",
+            "comentario": "Vaya pestiño",
+            "puntos": 3.0
+        },
+        {
+            "usuario": "herminia",
+            "comentario": "La escena de la cervecita...lo mejor",
+            "puntos": 8.0
+        },
+        {
+            "usuario": "calixto",
+            "comentario": "Gran interpretación del conductor del U",
+            "puntos": 10.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "La segunda vez me ha gustado aun menos",
+            "puntos": 0.0
+        }
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 1,
+            "year": 2024
+        },
+        "primera": 2024
+    }
+}
+{
+    "_id": 5,
+    "titulo": "Canción de hambre y sueño",
+    "genero": [
+        "NoSQL",
+        "romance",
+        "MongoDB"
+    ],
+    "precio": "9.0",
+    "opiniones": [
+        {
+            "usuario": "herminia",
+            "comentario": "Apasionante si no tienes nada que hacer con tu vida",
+            "puntos": 3.0
+        },
+        {
+            "usuario": "calixto",
+            "comentario": "Más pasado de moda que la camiseta del profesor",
+            "puntos": 1.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "La segunda vez me ha gustado aun menos",
+            "puntos": -5.0
+        }
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 6,
+            "year": 2025
+        },
+        "primera": 2022
+    }
+}
+{
+    "_id": 6,
+    "titulo": "¿quién me ha robado las alas?",
+    "autor": [
+        "Batman",
+        "Robin"
+    ],
+    "precio": 25.0,
+    "genero": [
+        "filosofía",
+        "autoayuda"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 4,
+            "year": 2014
+        },
+        "primera": 2000
+    }
+}
+{
+    "_id": 7,
+    "titulo": "La tierra de ChatGPT",
+    "author": [
+        "Sam",
+        "Frodo"
+    ],
+    "precio": 4.50,
+    "genero": [
+        "fábula",
+        "aforismo"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 4,
+            "year": 2024
+        },
+        "primera": 2022
+    },
+    "opiniones": [
+        {
+            "usuario": "herminia",
+            "comentario": "Inesperadamente poética, como una balada entre cactus",
+            "puntos": 3.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "Los diálogos son tan agudos como el filo de una navaja",
+            "puntos": 4.0
+        }
+    ]
+}
+{
+    "_id": 8,
+    "titulo": "Lo que el viento se llevó",
+    "author": [
+        "Boreas",
+        "Céfiro",
+        "Noto"
+    ],
+    "precio": "1 euro",
+    "genero": [
+        "cantar de gesta"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 5,
+            "year": 2023
+        },
+        "primera": 1990
+    },
+    "opiniones": [
+        {
+            "usuario": "calixto",
+            "comentario": "Me quitó el sombrero",
+            "puntos": 2.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "Tendré que comprar otro toldo",
+            "puntos": 3.5
+        }
+    ]
+}
+{
+    "_id": 9,
+    "titulo": "Sin noticias de Gru",
+    "author": "Edu",
+    "precio": 20.0,
+    "genero": [
+        "comedia",
+        "ensayo"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 10,
+            "year": 2024
+        },
+        "primera": 1991
+    },
+    "opiniones": [
+        {
+            "usuario": "herminia",
+            "comentario": "Es mi villano favorito",
+            "puntos": 5.0
+        },
+        {
+            "usuario": "aurelio",
+            "comentario": "Se me está agusanando la comida",
+            "puntos": 4.0
+        }
+    ]
+}
+{
+    "_id": 10,
+    "titulo": "ELP para Nicómaco",
+    "author": [
+        "Roquefort",
+        "Duquesa"
+    ],
+    "precio": 5.25,
+    "genero": [
+        "thriller psicológico",
+        "aventuras"
+    ],
+    "edicion": {
+        "actual": {
+            "numero": 2,
+            "year": 2023
+        },
+        "primera": 2021
+    },
+    "opiniones": [
+        {
+            "usuario": "nicómaco",
+            "comentario": "Este libro no es para mí",
+            "puntos": 1.0
+        },
+        {
+            "usuario": "lactosa",
+            "comentario": "¿Es tolerable ser intolerante contra la intolerancia?",
+            "puntos": 4.0
+        },
+        {
+            "usuario": "bertoldo",
+            "comentario": "La razón de la sinrazón que a mi razón se hace, de tal manera mi razón enflaquece, que con razón me quejo de la vuestra escritura",
+            "puntos": 2.0
+        }
+    ]
+}
