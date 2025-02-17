@@ -1,0 +1,107 @@
+{
+    "centro_presupuestario": {
+      "id": "1001",
+      "nombre": "ADMÓN.COMUNIDAD DE MADRID"
+    },
+    "seccion": {
+      "id": 3,
+      "nombre": "PRESIDENCIA DE LA COMUNIDAD DE MADRID"
+    },
+    "centro_gestor": {
+      "id": "030010000",
+      "nombre": "PRESIDENCIA DE LA COMUNIDAD DE MADRID"
+    },
+    "programa": {
+      "id": "912M",
+      "nombre": "ASESORAMIENTO A LA PRESIDENCIA"
+    },
+    "subconcepto": {
+      "id": 10000,
+      "nombre": "RETRIBUCIONES BÁSICAS ALTOS CARGOS"
+    },
+    "cuantia": {
+      "inicial": 172136,
+      "actual": 174207,
+      "modificacion": 2071,
+      "autorizado": 159689.55
+    },
+    "ejecucion": [
+      {
+        "mes": 1,
+        "dispuesto": 14344.63,
+        "saldo_autorizado": 0,
+        "obligaciones": 14344.63,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 2,
+        "dispuesto": 14344.63,
+        "saldo_autorizado": 0,
+        "obligaciones": 14344.63,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 3,
+        "dispuesto": 14447.74,
+        "saldo_autorizado": 0,
+        "obligaciones": 14447.74,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 4,
+        "dispuesto": 14379,
+        "saldo_autorizado": 0,
+        "obligaciones": 14379,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 5,
+        "dispuesto": 14379,
+        "saldo_autorizado": 0,
+        "obligaciones": 14379,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 6,
+        "dispuesto": 14379,
+        "saldo_autorizado": 0,
+        "obligaciones": 14379,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 7,
+        "dispuesto": 14379,
+        "saldo_autorizado": 0,
+        "obligaciones": 14379,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 8,
+        "dispuesto": 15485.04,
+        "saldo_autorizado": 0,
+        "obligaciones": 15485.04,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 9,
+        "dispuesto": 14517.17,
+        "saldo_autorizado": 0,
+        "obligaciones": 14517.17,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 10,
+        "dispuesto": 14517.17,
+        "saldo_autorizado": 0,
+        "obligaciones": 14517.17,
+        "saldo_disposic": 0
+      },
+      {
+        "mes": 11,
+        "dispuesto": 14517.17,
+        "saldo_autorizado": 0,
+        "obligaciones": 14517.17,
+        "saldo_disposic": 0
+      }
+    ]
+  }
