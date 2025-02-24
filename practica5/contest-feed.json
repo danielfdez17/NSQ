@@ -1,0 +1,1679 @@
+[{
+    "_id": "1001",
+    "id": null,
+    "type": "contest",
+    "data": {
+        "formal_name": "concursillo",
+        "start_time": "2025-02-03T12:00:00+01:00",
+        "id": "concursillo",
+        "name": "Concursillo de pega",
+        "allow_submit": true,
+        "penalty_time": 20
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1002",
+    "id": "ucm",
+    "type": "organizations",
+    "data": {
+        "shortname": "UCM",
+        "id": "ucm",
+        "name": "UCM",
+        "formal_name": "Universidad Complutense de Madrid"
+    }
+},
+{
+    "_id": "1003",
+    "id": "antgar",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "antgar",
+        "label": "antgar",
+        "display_name": "Antonio Garc\u00eda"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1004",
+    "id": "carrod",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "carrod",
+        "label": "carrod",
+        "display_name": "Mar\u00eda del Carmen Rodr\u00edguez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1005",
+    "id": "mangon",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "mangon",
+        "label": "mangon",
+        "display_name": "Manuel Gonz\u00e1lez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1006",
+    "id": "anafer",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "anafer",
+        "label": "anafer",
+        "display_name": "Ana Mar\u00eda Fern\u00e1ndez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1007",
+    "id": "joslop",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "joslop",
+        "label": "joslop",
+        "display_name": "Jos\u00e9 L\u00f3pez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1008",
+    "id": "luamar",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "luamar",
+        "label": "luamar",
+        "display_name": "Laura Mart\u00ednez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1009",
+    "id": "frasan",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "frasan",
+        "label": "frasan",
+        "display_name": "Francisco S\u00e1nchez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1010",
+    "id": "isaper",
+    "type": "teams",
+    "data": {
+        "organization_id": "ucm",
+        "affiliation": "Universidad Complutense de Madrid",
+        "id": "isaper",
+        "label": "isaper",
+        "display_name": "Isabel P\u00e9rez"
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1011",
+    "id": "pvsnp",
+    "type": "problems",
+    "data": {
+        "id": "pvsnp",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "pvsnp",
+        "time_limit": 1,
+        "name": "P contra NP",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1012",
+    "id": "poincare",
+    "type": "problems",
+    "data": {
+        "id": "poincare",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "poincare",
+        "time_limit": 1,
+        "name": "La conjetura de Poincar\u00e9",
+        "test_data_count": 9
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1013",
+    "id": "riemann",
+    "type": "problems",
+    "data": {
+        "id": "riemann",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "riemann",
+        "time_limit": 1,
+        "name": "Riemann y sus hip\u00f3tesis",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1014",
+    "id": "navier",
+    "type": "problems",
+    "data": {
+        "id": "navier",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "navier",
+        "time_limit": 1,
+        "name": "Las ecuaciones de Navier-Stokes",
+        "test_data_count": 4
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1015",
+    "id": "viajante",
+    "type": "problems",
+    "data": {
+        "id": "viajante",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "viajante",
+        "time_limit": 1,
+        "name": "El problema del viajante",
+        "test_data_count": 10
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1016",
+    "id": "monty",
+    "type": "problems",
+    "data": {
+        "id": "monty",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "monty",
+        "time_limit": 1,
+        "name": "Marilyn en Monty Hall",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1017",
+    "id": "cena",
+    "type": "problems",
+    "data": {
+        "id": "cena",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "cena",
+        "time_limit": 1,
+        "name": "La cena de los fil\u00f3sofos",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1018",
+    "id": "jetpack",
+    "type": "problems",
+    "data": {
+        "id": "jetpack",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "jetpack",
+        "time_limit": 1,
+        "name": "La mochila propulsora",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1019",
+    "id": "reinas",
+    "type": "problems",
+    "data": {
+        "id": "reinas",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "reinas",
+        "time_limit": 1,
+        "name": "Ocho reinas muchas son",
+        "test_data_count": 3
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1020",
+    "id": "parada",
+    "type": "problems",
+    "data": {
+        "id": "parada",
+        "rgb": "#32CD32",
+        "color": "LimeGreen",
+        "label": "parada",
+        "time_limit": 1,
+        "name": "\u00bfCu\u00e1ndo parar\u00e1?",
+        "test_data_count": 10
+    },
+    "time": "2025-02-03T12:00:00+01:00"
+},
+{
+    "_id": "1021",
+    "id": 3029,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-03T22:53:11+01:00",
+        "team_id": "antgar",
+        "problem_id": "poincare",
+        "id": 3029,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-03T22:53:11+01:00"
+},
+{
+    "_id": "1022",
+    "id": 3016,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-03T23:19:18+01:00",
+        "team_id": "anafer",
+        "problem_id": "reinas",
+        "id": 3016,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-03T23:19:18+01:00"
+},
+{
+    "_id": "1023",
+    "id": 3018,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T00:38:34+01:00",
+        "team_id": "joslop",
+        "problem_id": "pvsnp",
+        "id": 3018,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T00:38:34+01:00"
+},
+{
+    "_id": "1024",
+    "id": 3090,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T00:45:26+01:00",
+        "team_id": "joslop",
+        "problem_id": "navier",
+        "id": 3090,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-04T00:45:26+01:00"
+},
+{
+    "_id": "1025",
+    "id": 3070,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T02:33:24+01:00",
+        "team_id": "anafer",
+        "problem_id": "pvsnp",
+        "id": 3070,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-04T02:33:24+01:00"
+},
+{
+    "_id": "1026",
+    "id": 3091,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T04:07:54+01:00",
+        "team_id": "joslop",
+        "problem_id": "jetpack",
+        "id": 3091,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-04T04:07:54+01:00"
+},
+{
+    "_id": "1027",
+    "id": 3059,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T04:42:43+01:00",
+        "team_id": "isaper",
+        "problem_id": "navier",
+        "id": 3059,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T04:42:43+01:00"
+},
+{
+    "_id": "1028",
+    "id": 3094,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T08:46:52+01:00",
+        "team_id": "joslop",
+        "problem_id": "navier",
+        "id": 3094,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T08:46:52+01:00"
+},
+{
+    "_id": "1029",
+    "id": 3043,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T09:02:58+01:00",
+        "team_id": "isaper",
+        "problem_id": "viajante",
+        "id": 3043,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T09:02:58+01:00"
+},
+{
+    "_id": "1030",
+    "id": 3083,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T09:56:07+01:00",
+        "team_id": "isaper",
+        "problem_id": "riemann",
+        "id": 3083,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-04T09:56:07+01:00"
+},
+{
+    "_id": "1031",
+    "id": 3028,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T10:54:20+01:00",
+        "team_id": "isaper",
+        "problem_id": "jetpack",
+        "id": 3028,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-04T10:54:20+01:00"
+},
+{
+    "_id": "1032",
+    "id": 3041,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T11:50:47+01:00",
+        "team_id": "carrod",
+        "problem_id": "monty",
+        "id": 3041,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T11:50:47+01:00"
+},
+{
+    "_id": "1033",
+    "id": 3022,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T22:07:45+01:00",
+        "team_id": "isaper",
+        "problem_id": "jetpack",
+        "id": 3022,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T22:07:45+01:00"
+},
+{
+    "_id": "1034",
+    "id": 3069,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T22:37:52+01:00",
+        "team_id": "anafer",
+        "problem_id": "cena",
+        "id": 3069,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-04T22:37:52+01:00"
+},
+{
+    "_id": "1035",
+    "id": 3062,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-04T22:48:01+01:00",
+        "team_id": "frasan",
+        "problem_id": "navier",
+        "id": 3062,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-04T22:48:01+01:00"
+},
+{
+    "_id": "1036",
+    "id": 3078,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T01:01:34+01:00",
+        "team_id": "carrod",
+        "problem_id": "viajante",
+        "id": 3078,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-05T01:01:34+01:00"
+},
+{
+    "_id": "1037",
+    "id": 3036,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T01:30:02+01:00",
+        "team_id": "luamar",
+        "problem_id": "reinas",
+        "id": 3036,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-05T01:30:02+01:00"
+},
+{
+    "_id": "1038",
+    "id": 3084,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T02:38:30+01:00",
+        "team_id": "carrod",
+        "problem_id": "viajante",
+        "id": 3084,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T02:38:30+01:00"
+},
+{
+    "_id": "1039",
+    "id": 3032,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T03:23:58+01:00",
+        "team_id": "isaper",
+        "problem_id": "cena",
+        "id": 3032,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T03:23:58+01:00"
+},
+{
+    "_id": "1040",
+    "id": 3053,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T03:49:29+01:00",
+        "team_id": "joslop",
+        "problem_id": "cena",
+        "id": 3053,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-05T03:49:29+01:00"
+},
+{
+    "_id": "1041",
+    "id": 3038,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T05:07:58+01:00",
+        "team_id": "carrod",
+        "problem_id": "viajante",
+        "id": 3038,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-05T05:07:58+01:00"
+},
+{
+    "_id": "1042",
+    "id": 3060,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T06:08:31+01:00",
+        "team_id": "joslop",
+        "problem_id": "monty",
+        "id": 3060,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T06:08:31+01:00"
+},
+{
+    "_id": "1043",
+    "id": 3019,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T08:09:44+01:00",
+        "team_id": "mangon",
+        "problem_id": "poincare",
+        "id": 3019,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T08:09:44+01:00"
+},
+{
+    "_id": "1044",
+    "id": 3063,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T08:34:09+01:00",
+        "team_id": "frasan",
+        "problem_id": "parada",
+        "id": 3063,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-05T08:34:09+01:00"
+},
+{
+    "_id": "1045",
+    "id": 3026,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T08:58:01+01:00",
+        "team_id": "antgar",
+        "problem_id": "riemann",
+        "id": 3026,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T08:58:01+01:00"
+},
+{
+    "_id": "1046",
+    "id": 3099,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T10:05:29+01:00",
+        "team_id": "mangon",
+        "problem_id": "poincare",
+        "id": 3099,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T10:05:29+01:00"
+},
+{
+    "_id": "1047",
+    "id": 3017,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T11:52:48+01:00",
+        "team_id": "luamar",
+        "problem_id": "parada",
+        "id": 3017,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-05T11:52:48+01:00"
+},
+{
+    "_id": "1048",
+    "id": 3000,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T19:02:56+01:00",
+        "team_id": "carrod",
+        "problem_id": "pvsnp",
+        "id": 3000,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-05T19:02:56+01:00"
+},
+{
+    "_id": "1049",
+    "id": 3061,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T19:38:54+01:00",
+        "team_id": "luamar",
+        "problem_id": "parada",
+        "id": 3061,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-05T19:38:54+01:00"
+},
+{
+    "_id": "1050",
+    "id": 3042,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T22:22:10+01:00",
+        "team_id": "joslop",
+        "problem_id": "parada",
+        "id": 3042,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-05T22:22:10+01:00"
+},
+{
+    "_id": "1051",
+    "id": 3085,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T22:57:51+01:00",
+        "team_id": "anafer",
+        "problem_id": "pvsnp",
+        "id": 3085,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-05T22:57:51+01:00"
+},
+{
+    "_id": "1052",
+    "id": 3067,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-05T23:39:40+01:00",
+        "team_id": "isaper",
+        "problem_id": "riemann",
+        "id": 3067,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-05T23:39:40+01:00"
+},
+{
+    "_id": "1053",
+    "id": 3074,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T00:54:51+01:00",
+        "team_id": "luamar",
+        "problem_id": "riemann",
+        "id": 3074,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-06T00:54:51+01:00"
+},
+{
+    "_id": "1054",
+    "id": 3057,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T00:57:51+01:00",
+        "team_id": "anafer",
+        "problem_id": "reinas",
+        "id": 3057,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T00:57:51+01:00"
+},
+{
+    "_id": "1055",
+    "id": 3001,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T01:44:15+01:00",
+        "team_id": "joslop",
+        "problem_id": "reinas",
+        "id": 3001,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T01:44:15+01:00"
+},
+{
+    "_id": "1056",
+    "id": 3068,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T03:32:59+01:00",
+        "team_id": "carrod",
+        "problem_id": "pvsnp",
+        "id": 3068,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T03:32:59+01:00"
+},
+{
+    "_id": "1057",
+    "id": 3071,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T04:57:07+01:00",
+        "team_id": "carrod",
+        "problem_id": "parada",
+        "id": 3071,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T04:57:07+01:00"
+},
+{
+    "_id": "1058",
+    "id": 3055,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T05:10:58+01:00",
+        "team_id": "luamar",
+        "problem_id": "pvsnp",
+        "id": 3055,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T05:10:58+01:00"
+},
+{
+    "_id": "1059",
+    "id": 3058,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T06:51:55+01:00",
+        "team_id": "luamar",
+        "problem_id": "poincare",
+        "id": 3058,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-06T06:51:55+01:00"
+},
+{
+    "_id": "1060",
+    "id": 3079,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T08:57:10+01:00",
+        "team_id": "isaper",
+        "problem_id": "riemann",
+        "id": 3079,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-06T08:57:10+01:00"
+},
+{
+    "_id": "1061",
+    "id": 3092,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T22:29:34+01:00",
+        "team_id": "frasan",
+        "problem_id": "navier",
+        "id": 3092,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-06T22:29:34+01:00"
+},
+{
+    "_id": "1062",
+    "id": 3025,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T23:14:17+01:00",
+        "team_id": "frasan",
+        "problem_id": "poincare",
+        "id": 3025,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-06T23:14:17+01:00"
+},
+{
+    "_id": "1063",
+    "id": 3013,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T23:56:14+01:00",
+        "team_id": "luamar",
+        "problem_id": "pvsnp",
+        "id": 3013,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-06T23:56:14+01:00"
+},
+{
+    "_id": "1064",
+    "id": 3047,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-06T23:57:47+01:00",
+        "team_id": "antgar",
+        "problem_id": "parada",
+        "id": 3047,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-06T23:57:47+01:00"
+},
+{
+    "_id": "1065",
+    "id": 3080,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T00:36:16+01:00",
+        "team_id": "luamar",
+        "problem_id": "jetpack",
+        "id": 3080,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-07T00:36:16+01:00"
+},
+{
+    "_id": "1066",
+    "id": 3031,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T02:43:14+01:00",
+        "team_id": "mangon",
+        "problem_id": "cena",
+        "id": 3031,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-07T02:43:14+01:00"
+},
+{
+    "_id": "1067",
+    "id": 3002,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T04:28:54+01:00",
+        "team_id": "frasan",
+        "problem_id": "riemann",
+        "id": 3002,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-07T04:28:54+01:00"
+},
+{
+    "_id": "1068",
+    "id": 3008,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T04:55:29+01:00",
+        "team_id": "antgar",
+        "problem_id": "riemann",
+        "id": 3008,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-07T04:55:29+01:00"
+},
+{
+    "_id": "1069",
+    "id": 3073,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T08:31:15+01:00",
+        "team_id": "isaper",
+        "problem_id": "riemann",
+        "id": 3073,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-07T08:31:15+01:00"
+},
+{
+    "_id": "1070",
+    "id": 3037,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T08:56:09+01:00",
+        "team_id": "luamar",
+        "problem_id": "monty",
+        "id": 3037,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-07T08:56:09+01:00"
+},
+{
+    "_id": "1071",
+    "id": 3006,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T10:07:50+01:00",
+        "team_id": "mangon",
+        "problem_id": "riemann",
+        "id": 3006,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-07T10:07:50+01:00"
+},
+{
+    "_id": "1072",
+    "id": 3044,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T21:45:56+01:00",
+        "team_id": "anafer",
+        "problem_id": "navier",
+        "id": 3044,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-07T21:45:56+01:00"
+},
+{
+    "_id": "1073",
+    "id": 3065,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T22:13:21+01:00",
+        "team_id": "antgar",
+        "problem_id": "jetpack",
+        "id": 3065,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-07T22:13:21+01:00"
+},
+{
+    "_id": "1074",
+    "id": 3054,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-07T22:19:00+01:00",
+        "team_id": "frasan",
+        "problem_id": "riemann",
+        "id": 3054,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-07T22:19:00+01:00"
+},
+{
+    "_id": "1075",
+    "id": 3082,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T00:40:45+01:00",
+        "team_id": "isaper",
+        "problem_id": "parada",
+        "id": 3082,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T00:40:45+01:00"
+},
+{
+    "_id": "1076",
+    "id": 3076,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T01:10:58+01:00",
+        "team_id": "carrod",
+        "problem_id": "reinas",
+        "id": 3076,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T01:10:58+01:00"
+},
+{
+    "_id": "1077",
+    "id": 3088,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T02:10:41+01:00",
+        "team_id": "anafer",
+        "problem_id": "cena",
+        "id": 3088,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T02:10:41+01:00"
+},
+{
+    "_id": "1078",
+    "id": 3004,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T07:33:15+01:00",
+        "team_id": "luamar",
+        "problem_id": "reinas",
+        "id": 3004,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-08T07:33:15+01:00"
+},
+{
+    "_id": "1079",
+    "id": 3014,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T07:38:24+01:00",
+        "team_id": "anafer",
+        "problem_id": "navier",
+        "id": 3014,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-08T07:38:24+01:00"
+},
+{
+    "_id": "1080",
+    "id": 3010,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T10:25:25+01:00",
+        "team_id": "mangon",
+        "problem_id": "parada",
+        "id": 3010,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-08T10:25:25+01:00"
+},
+{
+    "_id": "1081",
+    "id": 3009,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T19:39:17+01:00",
+        "team_id": "frasan",
+        "problem_id": "parada",
+        "id": 3009,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T19:39:17+01:00"
+},
+{
+    "_id": "1082",
+    "id": 3003,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T19:55:20+01:00",
+        "team_id": "luamar",
+        "problem_id": "cena",
+        "id": 3003,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-08T19:55:20+01:00"
+},
+{
+    "_id": "1083",
+    "id": 3095,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T21:16:02+01:00",
+        "team_id": "luamar",
+        "problem_id": "poincare",
+        "id": 3095,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-08T21:16:02+01:00"
+},
+{
+    "_id": "1084",
+    "id": 3096,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T21:17:02+01:00",
+        "team_id": "anafer",
+        "problem_id": "poincare",
+        "id": 3096,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T21:17:02+01:00"
+},
+{
+    "_id": "1085",
+    "id": 3051,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T22:02:42+01:00",
+        "team_id": "luamar",
+        "problem_id": "viajante",
+        "id": 3051,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-08T22:02:42+01:00"
+},
+{
+    "_id": "1086",
+    "id": 3081,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T23:05:52+01:00",
+        "team_id": "carrod",
+        "problem_id": "navier",
+        "id": 3081,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T23:05:52+01:00"
+},
+{
+    "_id": "1087",
+    "id": 3039,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-08T23:28:01+01:00",
+        "team_id": "joslop",
+        "problem_id": "monty",
+        "id": 3039,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-08T23:28:01+01:00"
+},
+{
+    "_id": "1088",
+    "id": 3075,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T03:39:32+01:00",
+        "team_id": "luamar",
+        "problem_id": "jetpack",
+        "id": 3075,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-09T03:39:32+01:00"
+},
+{
+    "_id": "1089",
+    "id": 3023,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T05:02:24+01:00",
+        "team_id": "anafer",
+        "problem_id": "pvsnp",
+        "id": 3023,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-09T05:02:24+01:00"
+},
+{
+    "_id": "1090",
+    "id": 3005,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T06:26:53+01:00",
+        "team_id": "isaper",
+        "problem_id": "viajante",
+        "id": 3005,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-09T06:26:53+01:00"
+},
+{
+    "_id": "1091",
+    "id": 3045,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T07:06:33+01:00",
+        "team_id": "frasan",
+        "problem_id": "navier",
+        "id": 3045,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-09T07:06:33+01:00"
+},
+{
+    "_id": "1092",
+    "id": 3035,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T07:44:33+01:00",
+        "team_id": "carrod",
+        "problem_id": "cena",
+        "id": 3035,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-09T07:44:33+01:00"
+},
+{
+    "_id": "1093",
+    "id": 3086,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T08:01:47+01:00",
+        "team_id": "frasan",
+        "problem_id": "jetpack",
+        "id": 3086,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-09T08:01:47+01:00"
+},
+{
+    "_id": "1094",
+    "id": 3040,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T08:26:45+01:00",
+        "team_id": "joslop",
+        "problem_id": "reinas",
+        "id": 3040,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-09T08:26:45+01:00"
+},
+{
+    "_id": "1095",
+    "id": 3030,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T22:37:02+01:00",
+        "team_id": "antgar",
+        "problem_id": "pvsnp",
+        "id": 3030,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-09T22:37:02+01:00"
+},
+{
+    "_id": "1096",
+    "id": 3021,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T23:24:26+01:00",
+        "team_id": "carrod",
+        "problem_id": "monty",
+        "id": 3021,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-09T23:24:26+01:00"
+},
+{
+    "_id": "1097",
+    "id": 3020,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-09T23:55:15+01:00",
+        "team_id": "joslop",
+        "problem_id": "navier",
+        "id": 3020,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-09T23:55:15+01:00"
+},
+{
+    "_id": "1098",
+    "id": 3024,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T00:37:31+01:00",
+        "team_id": "anafer",
+        "problem_id": "poincare",
+        "id": 3024,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-10T00:37:31+01:00"
+},
+{
+    "_id": "1099",
+    "id": 3064,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T02:55:18+01:00",
+        "team_id": "anafer",
+        "problem_id": "riemann",
+        "id": 3064,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-10T02:55:18+01:00"
+},
+{
+    "_id": "1100",
+    "id": 3093,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T07:14:22+01:00",
+        "team_id": "mangon",
+        "problem_id": "poincare",
+        "id": 3093,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-10T07:14:22+01:00"
+},
+{
+    "_id": "1101",
+    "id": 3033,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T07:28:58+01:00",
+        "team_id": "antgar",
+        "problem_id": "parada",
+        "id": 3033,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-10T07:28:58+01:00"
+},
+{
+    "_id": "1102",
+    "id": 3089,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T08:27:02+01:00",
+        "team_id": "antgar",
+        "problem_id": "riemann",
+        "id": 3089,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-10T08:27:02+01:00"
+},
+{
+    "_id": "1103",
+    "id": 3077,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T10:55:37+01:00",
+        "team_id": "antgar",
+        "problem_id": "pvsnp",
+        "id": 3077,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-10T10:55:37+01:00"
+},
+{
+    "_id": "1104",
+    "id": 3049,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T20:37:18+01:00",
+        "team_id": "carrod",
+        "problem_id": "monty",
+        "id": 3049,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-10T20:37:18+01:00"
+},
+{
+    "_id": "1105",
+    "id": 3027,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-10T23:56:50+01:00",
+        "team_id": "carrod",
+        "problem_id": "monty",
+        "id": 3027,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-10T23:56:50+01:00"
+},
+{
+    "_id": "1106",
+    "id": 3011,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T00:14:43+01:00",
+        "team_id": "mangon",
+        "problem_id": "monty",
+        "id": 3011,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-11T00:14:43+01:00"
+},
+{
+    "_id": "1107",
+    "id": 3034,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T01:56:39+01:00",
+        "team_id": "carrod",
+        "problem_id": "jetpack",
+        "id": 3034,
+        "judgement_type_id": "CE"
+    },
+    "time": "2025-02-11T01:56:39+01:00"
+},
+{
+    "_id": "1108",
+    "id": 3050,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T02:47:35+01:00",
+        "team_id": "luamar",
+        "problem_id": "cena",
+        "id": 3050,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T02:47:35+01:00"
+},
+{
+    "_id": "1109",
+    "id": 3056,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T03:15:52+01:00",
+        "team_id": "joslop",
+        "problem_id": "navier",
+        "id": 3056,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T03:15:52+01:00"
+},
+{
+    "_id": "1110",
+    "id": 3072,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T03:26:01+01:00",
+        "team_id": "antgar",
+        "problem_id": "riemann",
+        "id": 3072,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T03:26:01+01:00"
+},
+{
+    "_id": "1111",
+    "id": 3012,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T04:01:03+01:00",
+        "team_id": "mangon",
+        "problem_id": "cena",
+        "id": 3012,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T04:01:03+01:00"
+},
+{
+    "_id": "1112",
+    "id": 3007,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T05:15:01+01:00",
+        "team_id": "isaper",
+        "problem_id": "pvsnp",
+        "id": 3007,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-11T05:15:01+01:00"
+},
+{
+    "_id": "1113",
+    "id": 3098,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T05:28:24+01:00",
+        "team_id": "anafer",
+        "problem_id": "monty",
+        "id": 3098,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T05:28:24+01:00"
+},
+{
+    "_id": "1114",
+    "id": 3087,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T06:21:04+01:00",
+        "team_id": "carrod",
+        "problem_id": "viajante",
+        "id": 3087,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-11T06:21:04+01:00"
+},
+{
+    "_id": "1115",
+    "id": 3097,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T06:32:14+01:00",
+        "team_id": "joslop",
+        "problem_id": "viajante",
+        "id": 3097,
+        "judgement_type_id": "TLE"
+    },
+    "time": "2025-02-11T06:32:14+01:00"
+},
+{
+    "_id": "1116",
+    "id": 3048,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T08:50:26+01:00",
+        "team_id": "isaper",
+        "problem_id": "viajante",
+        "id": 3048,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-11T08:50:26+01:00"
+},
+{
+    "_id": "1117",
+    "id": 3046,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T08:54:39+01:00",
+        "team_id": "frasan",
+        "problem_id": "jetpack",
+        "id": 3046,
+        "judgement_type_id": "RTE"
+    },
+    "time": "2025-02-11T08:54:39+01:00"
+},
+{
+    "_id": "1118",
+    "id": 3015,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T08:55:24+01:00",
+        "team_id": "antgar",
+        "problem_id": "cena",
+        "id": 3015,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T08:55:24+01:00"
+},
+{
+    "_id": "1119",
+    "id": 3066,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T09:01:47+01:00",
+        "team_id": "mangon",
+        "problem_id": "riemann",
+        "id": 3066,
+        "judgement_type_id": "WA"
+    },
+    "time": "2025-02-11T09:01:47+01:00"
+},
+{
+    "_id": "1120",
+    "id": 3052,
+    "type": "submissions",
+    "data": {
+        "language_id": "cpp",
+        "time": "2025-02-11T10:36:41+01:00",
+        "team_id": "carrod",
+        "problem_id": "monty",
+        "id": 3052,
+        "judgement_type_id": "AC"
+    },
+    "time": "2025-02-11T10:36:41+01:00"
+}]
