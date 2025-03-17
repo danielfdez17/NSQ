@@ -1,0 +1,93 @@
+[
+    {
+      "_id": "admin.G04",
+      "userId": {
+        "$numberLong": "1234567890123456789"
+      },
+      "user": "G04",
+      "db": "admin",
+      "roles": [
+        {
+          "role": "userAdminAnyDatabase",
+          "db": "admin"
+        },
+        {
+          "role": "read",
+          "db": "admin"
+        },
+        {
+          "role": "readWriteAnyDatabase",
+          "db": "admin"
+        }
+      ],
+      "inheritedRoles": [
+        {
+          "role": "userAdminAnyDatabase",
+          "db": "admin"
+        },
+        {
+          "role": "read",
+          "db": "admin"
+        },
+        {
+          "role": "readWriteAnyDatabase",
+          "db": "admin"
+        }
+      ],
+      "inheritedPrivileges": [],
+      "inheritedAuthenticationRestrictions": []
+    },
+    {
+      "_id": "buzon.herminia",
+      "userId": {
+        "$numberLong": "22334455667788"
+      },
+      "user": "herminia",
+      "db": "buzon",
+      "roles": [
+        {
+          "role": "remitente",
+          "db": "buzon"
+        }
+      ],
+      "inheritedRoles": [
+        {
+          "role": "remitente",
+          "db": "buzon"
+        }
+      ],
+      "inheritedPrivileges": [],
+      "inheritedAuthenticationRestrictions": []
+    },
+    {
+      "_id": "oficina.bertoldo",
+      "userId": {
+        "$numberLong": "998877665544332211"
+      },
+      "user": "bertoldo",
+      "db": "oficina",
+      "roles": [
+        {
+          "role": "paje",
+          "db": "buzon"
+        },
+        {
+          "role": "readWrite",
+          "db": "oficina"
+        }
+      ],
+      "inheritedRoles": [
+        {
+          "role": "paje",
+          "db": "buzon"
+        },
+        {
+          "role": "readWrite",
+          "db": "oficina"
+        }
+      ],
+      "inheritedPrivileges": [],
+      "inheritedAuthenticationRestrictions": []
+    }
+  ]
+      
